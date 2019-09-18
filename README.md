@@ -2,6 +2,6 @@
 
 ### This will be an ongoing project to practice algorithms in JavaScript
 
-### algorithms completed
+### search algorithms
   * ##### Binary Search
   * ##### Linear Search
