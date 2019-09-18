@@ -24,6 +24,7 @@ function binary_Search(items, value) {
     //if the target number is equal to the middle index then the loop is done
     return (items[middleIndex] != value) ? -1 : middleIndex;
 }
+//test case array
 const items = [1, 2, 3, 4, 5, 7, 8, 9];
 
 //these console logs will display the index number of the target integer

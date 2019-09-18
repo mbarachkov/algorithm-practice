@@ -4,3 +4,4 @@
 
 ### algorithms completed
   * ##### Binary Search
+  * ##### Linear Search
